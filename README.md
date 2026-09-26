@@ -1,0 +1,2 @@
+# EasierPyLangLib
+MAKE PYTHON EASIER. 
