@@ -3,4 +3,4 @@ __all__ = []
 
 # test run
 if __name__ == "__main__":
-	pass
+	import example
