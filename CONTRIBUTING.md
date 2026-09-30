@@ -12,3 +12,5 @@ A: you can:
 [CONTRIBUTORS]()
 
 **WELCOME!!!**
+
+_p.s. 欢迎中文开发者！_
