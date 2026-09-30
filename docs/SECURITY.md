@@ -1,12 +1,11 @@
 # Security Policy
-
 ## Supported Versions
 
-| Python Version | Supported          |
+| Python Version | Supported   |
 | ------- | ------------------ |
-| 3.8+  | :white_check_mark: |
-| 3.x   |  Partial support     |
-| 2.x   | :x: |
+| 3.8+    | :white_check_mark: |
+| 3.x     |  Partial Support   |
+| 2.x     | :x:                |
 
 ## Reporting a Vulnerability
 
