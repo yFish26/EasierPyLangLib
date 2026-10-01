@@ -2,5 +2,5 @@
 ## profile
 …
 
-#s issue
+## issue
 fix: #n
