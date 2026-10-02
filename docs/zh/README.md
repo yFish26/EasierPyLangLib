@@ -1,14 +1,10 @@
 # EasierPyLangLib
-#### 版本 0.1.0.2
+#### 版本 0.1.0.3
 
 MAKE PYTHON EASIER.
 
 我们提供一些简单实用的工具，
 让 Python 编程变得更容易！
-
-they're some tools, 
-with them, 
-Python becomes easier!
 
 ## 文档
 
