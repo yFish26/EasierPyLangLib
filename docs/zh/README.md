@@ -6,6 +6,10 @@ MAKE PYTHON EASIER.
 我们提供一些简单实用的工具，
 让 Python 编程变得更容易！
 
+they're some tools, 
+with them, 
+Python becomes easier!
+
 ## 文档
 
 - [主文档](../README.md)
