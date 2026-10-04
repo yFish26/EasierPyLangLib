@@ -1,5 +1,5 @@
 # EasierPyLangLib
-#### version 0.1.0.3
+#### version 0.1.1.1
 
 MAKE PYTHON EASIER. 
 they’re some tools, 
