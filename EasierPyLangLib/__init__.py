@@ -1,8 +1,11 @@
-# v0.2.0
+# v0.1.1.1
 from . import formulas
 from .formulas import BMI, average, clamp, factorial, fib, gcd, is_even
 
-__version__ = "0.2.0"
+from . import maths
+from .maths import pi, e
+
+__version__ = "0.1.1.1"
 
 __all__ = [
     "formulas",
@@ -14,6 +17,8 @@ __all__ = [
     "gcd",
     "clamp",
     "__version__",
+    "pi",
+    "e"
 ]
 
 # test run
