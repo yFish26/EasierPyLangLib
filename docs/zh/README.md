@@ -1,5 +1,5 @@
 # EasierPyLangLib
-#### 版本 0.1.0.3
+#### 版本 0.1.1.1
 
 MAKE PYTHON EASIER.
 
