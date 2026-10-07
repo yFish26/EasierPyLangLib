@@ -1,5 +1,5 @@
 # E.P.L.L. help
-v0.1.1.1
+v0.1.2.0
 
 ## docs
 * [docs](docs/)
