@@ -1,8 +1,8 @@
 # EasierPyLangLib
 #### version 0.1.2.0
 
-MAKE PYTHON EASIER.
-We provide a few simple and practical tools that make Python programming easier!
+> MAKE PYTHON EASIER.
+> We provide a few simple and practical tools that make Python programming easier!
 
 ## Documentation
 
